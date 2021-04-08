@@ -1,5 +1,5 @@
 const menu = (prefix, pushname, uangku, role, getLevelingLevel(sender), getLevelingXp(sender)}/reqXp, sender.split("@")[0]) => { 
-	return `◪ INFO DEVELOPER
+	return `◪ Alexander Yeremi
   ❏ Nama: Alexander Yeremi
   ❏ Wa: wa.me/6281281783202
   ❏ Ig: https://www.instagram.com/alexanderyeremi.yt/._
