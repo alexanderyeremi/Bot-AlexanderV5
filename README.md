@@ -27,7 +27,7 @@ Only Termux
 </p>
 
 <p align="center">
-  <a href="https://github.com/mancabot"><img src="https://github-readme-stats.vercel.app/api?username=mancabot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/alexanderyeremi"><img src="https://github-readme-stats.vercel.app/api?username=alexanderyerrmi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Only Termux
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancabot&theme=onedark" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexanderyeremi&theme=onedark" /></a>
 </p>
 
 <p align="center">
