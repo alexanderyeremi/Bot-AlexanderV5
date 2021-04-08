@@ -1,6 +1,6 @@
 # MancaBot
 Only Termux
-<h1 align="center">𝙉𝙐𝙍𝙐𝙇ツ<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Nurul Manca Was Hare!</h1>
+<h1 align="center">Alexander Yeremi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Nurul Manca Was Hare!</h1>
 
 <p align="center">
 <img src="https://ibb.co/r5wpr0n" width="100%" alt="API Giphy logo"/>
@@ -54,8 +54,8 @@ you've just cloned!!
 > pkg update && pkg upgrade 
 > pkg install nodejs
 > pkg install tesseract 
-> git clone https://github.com/alonecans/wansap-bot-manca
-> cd wansap-bot-manca
+> git clone https://github.com/alexanderyeremi/Bot-AlexanderV5
+> cd Bot-AlexanderV5
 > bash install.sh
 ```
 
@@ -68,8 +68,8 @@ you've just cloned!!
  #sosial media
 
 
-* [`WhatsApp Admin `](https://wa.me/6283815956151)
+* [`WhatsApp Admin `](https://wa.me/6281281783202)
 
-* [`Chika Bot `](https://wa.me/994404762586)
+* [`Alexander Bot `](https://wa.me/6281281783202)
 
 
