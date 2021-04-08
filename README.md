@@ -31,7 +31,7 @@ Only Termux
 </p>
 
 <p align="center">
-  <a href="https://github.com/mancabot"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mancabot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/alexanderyeremi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexanderyeremi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
