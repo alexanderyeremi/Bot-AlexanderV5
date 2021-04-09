@@ -1,6 +1,6 @@
 # Bot-AlexanderV5
 Only Termux
-<h1 align="center">Alexander Yeremi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Yeremi Was Hare!</h1>
+<h1 align="center"> Alexander Yeremi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>Nurul Manca Was Hare!</h1>
 
 <p align="center">
 <img src="https://ibb.co/r5wpr0n" width="100%" alt="API Giphy logo"/>
@@ -27,15 +27,15 @@ Only Termux
 </p>
 
 <p align="center">
-  <a href="https://github.com/alexanderyeremi"><img src="https://github-readme-stats.vercel.app/api?username=alexanderyerrmi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+  <a href="https://github.com/mancabot"><img src="https://github-readme-stats.vercel.app/api?username=mancabot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/alexanderyeremi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=alexanderyeremi&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/mancabot"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mancabot&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexanderyeremi&theme=onedark" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mancabot&theme=onedark" /></a>
 </p>
 
 <p align="center">
@@ -70,6 +70,6 @@ you've just cloned!!
 
 * [`WhatsApp Admin `](https://wa.me/6281281783202)
 
-* [`Alexander Bot `](https://wa.me/6281281783202)
+* [`Alexader Bot `](https://wa.me/62812783202)
 
 
