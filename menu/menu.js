@@ -1,19 +1,9 @@
 const menu = (prefix, pushname, uangku, role, getLevelingLevel(sender), getLevelingXp(sender)}/reqXp, sender.split("@")[0]) => { 
-	return `◪ Alexander Yeremi
+	return `◪ INFO DEVELOPER
   ❏ Nama: Alexander Yeremi
   ❏ Wa: wa.me/6281281783202
   ❏ Ig: https://www.instagram.com/alexanderyeremi.yt/._
   ----------------------------------
-◪ YOUR INFO
-  ❏ Prefix: 「  ${prefix}  」
-  ❏ Nama: ${pushname}
-  ❏ Duit: *Rp.${uangku}.-*
-  ❏ Role: *${role}*
-  ❏ Level: ${getLevelingLevel(sender)}
-  ❏ Xp: ${getLevelingXp(sender)}/${reqXp} 
-  ❏ Nomer: wa.me/${sender.split("@")[0]}
-  ----------------------------------
-
 *${prefix}info*
 *${prefix}snk*
 *${prefix}lpr*
@@ -396,7 +386,7 @@ const menu = (prefix, pushname, uangku, role, getLevelingLevel(sender), getLevel
 › Versi Whatsapp : ${client.user.phone.wa_version}
  
 [ TQTO ]
-•Alexander Yeremi
+•YOGIPW
 •Msz Pros *(Hans)*
 •Alpinofc *(GayMan)*
 •Dappauhuy *(GayBerkualitas)*
